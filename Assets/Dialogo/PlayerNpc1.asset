@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120e4df20cc24b14994cf9eacae96c28, type: 3}
+  m_Name: PlayerNpc1
+  m_EditorClassIdentifier: 
+  Conversas:
+  - IdExpressoes: 0
+    personagem: {fileID: 11400000, guid: bd638d783bfbdef46a81f6128287d003, type: 2}
+    TextoDasFalas:
+    - "Ol\xE1 Tudo be?"
+  - IdExpressoes: 0
+    personagem: {fileID: 11400000, guid: 6be2bad4777fda14d99014e6f1223f87, type: 2}
+    TextoDasFalas:
+    - "sim, o que est\xE1 procurando ?"
+  - IdExpressoes: 0
+    personagem: {fileID: 11400000, guid: bd638d783bfbdef46a81f6128287d003, type: 2}
+    TextoDasFalas:
+    - "A casa do Jo\xE3o."
+  - IdExpressoes: 1
+    personagem: {fileID: 11400000, guid: 6be2bad4777fda14d99014e6f1223f87, type: 2}
+    TextoDasFalas:
+    - Ela fica a noroeste daqui .
+  - IdExpressoes: 1
+    personagem: {fileID: 11400000, guid: bd638d783bfbdef46a81f6128287d003, type: 2}
+    TextoDasFalas:
+    - Obrigado!
+  - IdExpressoes: 2
+    personagem: {fileID: 11400000, guid: 6be2bad4777fda14d99014e6f1223f87, type: 2}
+    TextoDasFalas:
+    - De nada !
